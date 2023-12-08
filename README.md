@@ -1,5 +1,7 @@
 # FIFA-Analysis
 
-This analysis investigates goals from FIFA matches spanning over 100 years from 1916 through 2023. The aim of this project is to understand how the sport has evolved over the years, identify standout teams and players, and understand what patterns and influences affect goal scoring.
+This is a group project I collaborated on. It is an analysis that investigates goals from FIFA matches spanning over 100 years from 1916 through 2023. The aim of this project is to understand how the sport has evolved over the years, identify standout teams and players, and understand what patterns and influences affect goal scoring.
 
-Data Source: The dataset used in this project is sourced from Kaggle, titled: "International football results from 1872 to 2023". Link to the dataset: https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+See 'plots' folder for data visualizations that I contributed. 
+
+I also contributed to the data cleaning/processing and report writing. See the report for the full results.
